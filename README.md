@@ -85,6 +85,7 @@ Class-F PA
 
 
 References
+
 [1]  https://www.powercastco.com/products/powercaster-transmitter/ (last visited on March 2022)
 
 [2] Bagheri, M. and X. Li, “A modified cross-coupled oscillator”, Microsystem Technologies, 27(5), 2021, 2217-2228.‏
