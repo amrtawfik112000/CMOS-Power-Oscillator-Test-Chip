@@ -15,8 +15,11 @@ Far-field wireless charging requires a power oscillator (PO) as a transmitter se
 
 
 Block Diagrams
+![image](https://user-images.githubusercontent.com/102924726/165120442-8f6abe10-d708-482e-86d1-345525e285df.png)
+
 Power Oscillator Test Chip
  
+![image](https://user-images.githubusercontent.com/102924726/165120556-6ff02a4c-454d-40f5-8583-d7aa11943886.png)
 
 
 Driver and DPA
@@ -56,13 +59,6 @@ Class-F PA
 
 
 
-
-Target Specs
-Design Parameter	Value
-Output power 	=>6 W
-ISM Frequency Band 	915 MHZ
-Efficiency 	=> 40%
-THD	=> 5%
 
 
 
