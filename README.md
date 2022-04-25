@@ -59,10 +59,10 @@ Class-F PA
 
 Target Specs
 Design Parameter	Value
-Output power 	 6 W
+Output power 	=>6 W
 ISM Frequency Band 	915 MHZ
-Efficiency 	 40%
-THD	 5%
+Efficiency 	=> 40%
+THD	=> 5%
 
 
 
