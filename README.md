@@ -17,31 +17,37 @@ Far-field wireless charging requires a power oscillator (PO) as a transmitter se
 Block Diagrams
 ![image](https://user-images.githubusercontent.com/102924726/165120442-8f6abe10-d708-482e-86d1-345525e285df.png)
 
-Power Oscillator Test Chip
+Driver and DPA
  
 ![image](https://user-images.githubusercontent.com/102924726/165120556-6ff02a4c-454d-40f5-8583-d7aa11943886.png)
 
 
-Driver and DPA
- 
-
 
 Tentative Floorplan and Wiring Diagram
+
+![image](https://user-images.githubusercontent.com/102924726/165120859-af077f53-6029-413b-a1fd-a0fdf6373870.png)
+
                            
 Schematics
+
+
 Driver
 
 
+![image](https://user-images.githubusercontent.com/102924726/165120919-e4920358-a9c2-4734-8a05-30a569c9f612.png)
 
 
 
 
 
 Class-C PA
-                  
+              
+              ![image](https://user-images.githubusercontent.com/102924726/165121012-cb887671-94e1-4f23-ac8e-d4e0da13c281.png)
+
 Class-E PA
 
 
+![image](https://user-images.githubusercontent.com/102924726/165121087-bb2525bf-67bb-406e-aca6-2b54b20aa348.png)
 
 
 
@@ -51,6 +57,7 @@ Class-E PA
 
 
 Class-F PA
+![image](https://user-images.githubusercontent.com/102924726/165121125-0a2fa173-6114-4d6d-847c-45ef340ae3c8.png)
 
 
 
