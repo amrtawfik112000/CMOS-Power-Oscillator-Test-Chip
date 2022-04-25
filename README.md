@@ -5,7 +5,7 @@ El-Minia University, Faculty of Engineering. EE Department
 El-Minia, Egypt
 
 
-##Description
+Description
 The proposed test chip compares three PA classes that can be used in implementing a CMOS power oscillator at 915 MHz ISM band for far-field wireless power charging applications [1]. The driver is a  center tapped inductor cross-coupled oscillator [2] common to the three test cases. The driver uses nominal transistor ratings and can be isolated from the rest of the chip for testing. The three differential power amplifiers (DPAs) use high-voltage transistors and can be tested individually with external signal generator as input. Differential architectures are chosen to increase the output power level. The three DPAs under test are of class C [3], class E [4, 5] and class F [6]. Finally the complete power oscillator for the three cases will be tested for their performance comparison. The main key metrics include DC-to-RF power conversion efficiency as well as the output power level on a 50  PCB mounted terminator. 
 
 
@@ -34,6 +34,7 @@ Schematics
 Driver
 
 
+
 ![image](https://user-images.githubusercontent.com/102924726/165120919-e4920358-a9c2-4734-8a05-30a569c9f612.png)
 
 
@@ -52,6 +53,9 @@ Class-C PA
 Class-E PA
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/102924726/165121087-bb2525bf-67bb-406e-aca6-2b54b20aa348.png)
 
 
@@ -62,6 +66,10 @@ Class-E PA
 
 
 Class-F PA
+
+
+
+
 ![image](https://user-images.githubusercontent.com/102924726/165121125-0a2fa173-6114-4d6d-847c-45ef340ae3c8.png)
 
 
