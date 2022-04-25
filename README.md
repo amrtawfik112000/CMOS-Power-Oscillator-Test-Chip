@@ -41,8 +41,10 @@ Driver
 
 
 Class-C PA
-              
-              ![image](https://user-images.githubusercontent.com/102924726/165121012-cb887671-94e1-4f23-ac8e-d4e0da13c281.png)
+       ![image](https://user-images.githubusercontent.com/102924726/165121326-6f759a45-7234-462b-b301-c14aa5b073bf.png)
+       
+        
+        
 
 Class-E PA
 
