@@ -1,4 +1,4 @@
-# CMOS-Power-Oscillator-Test-Chip
+# CMOS_Power_Oscillator_Test_Chip
 
 Amr Tawfik, Belal Ali and Hager Mohamed
 El-Minia University, Faculty of Engineering. EE Department
