@@ -80,6 +80,15 @@ Far-field wireless charging requires a power oscillator (PO) as a transmitter se
 
 [10] Dong, B., Q. Shi, Y. Yang, F. Wen, Z. Zhang and C. Lee, &quot;Technology evolution from self-powered sensors to AIoT enabled smart homes&quot;, Nano Energy, Vol. 79, 2021, 1 – 23.
 
+***Team Members :***
+
+B.Eng. Amr Tawfik Mostafa
+
+B.Eng. Belal Ali Ramdan
+
+B.Eng. Hager Mohamed Diff-Alla
+
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 \*Graduation project 2022 – Under the supervision of: Hani Ragai and Theodora Rezk, Ain Shams University, Cairo, Egypt
