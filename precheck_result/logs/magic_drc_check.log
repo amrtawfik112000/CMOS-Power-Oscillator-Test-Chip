@@ -1,0 +1,29 @@
+
+Magic 8.3 revision 315 - Compiled on Thu Sep  1 16:18:32 UTC 2022.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Sourcing design .magicrc for technology sky130A ...
+2 Magic internal units = 1 Lambda
+Input style sky130(vendor): scaleFactor=2, multiplier=2
+The following types are not handled by extraction and will be treated as non-electrical types:
+    mvobsactive ubm 
+Scaled tech values by 2 / 1 to match internal grid scaling
+Loading sky130A Device Generator Menu ...
+Loading "/home/shahid/mpw_precheck/checks/drc_checks/magic/magic_drc_check.tcl" from command line.
+Warning: Calma reading is not undoable!  I hope that's OK.
+Library written using GDS-II Release 3.0
+Library name: user_analog_project_wrapper
+Reading "sky130_fd_pr__res_xhigh_po_0p35_8T8MHE".
+Reading "user_analog_project_wrapper".
+[INFO]: Loading user_analog_project_wrapper
+
+DRC style is now "drc(full)"
+Loading DRC CIF style.
+No errors found.
+[INFO]: COUNT: 0
+[INFO]: Should be divided by 3 or 4
+[INFO]: DRC Checking DONE (/home/shahid/caravel_user_project_analog/precheck_results/02_SEP_2022___01_46_27/outputs/reports/magic_drc_check.drc.report)
+[INFO]: Saving mag view with DRC errors(/home/shahid/caravel_user_project_analog/precheck_results/02_SEP_2022___01_46_27/outputs/user_analog_project_wrapper.magic.drc.mag)
+[INFO]: Saved
