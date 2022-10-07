@@ -5,7 +5,7 @@ El-Minia University, Faculty of Engineering. EE Department
 El-Minia, Egypt
 
 **Design review**
-the design review is here : https://docs.google.com/presentation/d/1O_K2KZ9fw92qts3Bk37DjLo4U5B-W_o5/edit?usp=sharing&ouid=111170925637395165536&rtpof=true&sd=true
+the design review is here : https://docs.google.com/presentation/d/1fgohsh5YCYj0jsgVKiZL-grJnAvoGBmG/edit?usp=sharing&ouid=111170925637395165536&rtpof=true&sd=true
 
 **Description**
 
